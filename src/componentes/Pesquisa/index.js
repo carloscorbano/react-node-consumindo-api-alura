@@ -10,7 +10,6 @@ const PesquisaContainer = styled.section`
     background-image: linear-gradient(90deg, #002F52 35%, #326589 160%);
     color: #FFF;
     text-align: center;
-    margin-top: 10vh;
     height: 100%;
     width: 100%;
 `;
