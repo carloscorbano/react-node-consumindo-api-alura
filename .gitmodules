@@ -1,0 +1,6 @@
+[submodule "submodules/front-end"]
+	path = submodules/front-end
+	url = https://github.com/carloscorbano/curso-react-comeco-alura.git
+[submodule "submodules/back-end"]
+	path = submodules/back-end
+	url = https://github.com/carloscorbano/curso-alura-react-express-api.git
